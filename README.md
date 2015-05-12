@@ -39,3 +39,5 @@ Users/participants will be encouraged to approach the installation, remove the t
 
 ## Technical notes
 Following installation and set up of this work, there should be little need for oversight or adjustments to this installation. Interaction with this installation is driven by users/participants. They will be encouraged to lift the telephone handset, place it to their ear, and then dial a telephone number. In response to this input, computers, controllers, and players inside the telephone will send a sound file, a Twisted Epiphany, to the handset where it can be heard by the user/participant. This process can be repeated. Electrical power is required for this installation. An extension cord, from a nearby wall or floor power outlet, can connect to the telephone, providing all necessary electrical power. The artists will supply the necessary power adaptor for the extension cord to connect with the installation power plug.
+
+![ELO Conference Poster](https://cloud.githubusercontent.com/assets/2708066/7595311/2229873a-f89b-11e4-96ef-3b4eddce94e4.png)
