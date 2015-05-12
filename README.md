@@ -6,8 +6,6 @@
 
 TelephoNOUS is an interactive sound installation using a reproduction Crosley 1950's pay telephone, an Arduino micro-computer, a Lilly Pad player, and several sound files. Users/participants will dial a telephone number and hear, as a result, a short audio narrative in the telephone handset. Dialing different numbers will result in hearing different epiphanies.
 
-![img_6710](https://cloud.githubusercontent.com/assets/2708066/7595556/a12ab6de-f89c-11e4-93f5-4fb3f81b39b0.jpg)
-
 The term "TelephoNOUS" bears some explanation. The abbreviated "telephone" refers to the telephone platform that forms the basis for this installation. The term NOUS plays on the French word for we, us, to us, and each other and thus indicative of collaboration and sharing as its central attributes. The French 'nous' rhymes with the English “new” as in a fresh concept, hopefully more in tune with the context it signifies. 'Noos' or 'Nous' is also the ancient Greek word for mind. It implies perception, sense, and purpose. It represents one’s heart, the essence of oneself. Inherent in the word is the notion of humanness. The connection then to narrative is direct, a sharing of thoughts, ideas, reactions to the surrounding context of the world.
 
 "Twisted Epiphanies" is a collection of short spoken word pieces from 15 seconds to 2 minutes in length. Each features original sound design and audio enhancement and where appropriate, original music to underscore the message of the individual piece.
@@ -28,6 +26,8 @@ The audio portion of this work was developed in 2014.
 
 The interactive electronics portion of this work, the telephone interface through which participants/listeners will interact, was developed in 2014-2015 using a reproduction of a Crosley 1950's pay telephone, with microcontrollers (Arduino and LilyPad).
 
+![Public Telephone 1957](https://cloud.githubusercontent.com/assets/2708066/7595601/d8da837a-f89c-11e4-8d50-387e1f5af299.jpg)
+
 ## Presentation
 This work consists of a free standing Crosley reproduction 1950's pay telephone. Ideally, it will be shown on a pedestal or other stable, secure, horizontal surface at a comfortable height where interactors/participants can use the telephone dial to evoke the Twisted Epiphanies, heard through the telephone handset. Electrical power is necessary for the functionality of this installation so placement within reach of a power outlet is required. The telephone will have its own power cord. An extension cord to the nearest outlet is required. Any extension cord will need be taped or otherwise secure to user safety, etc.
 
@@ -41,5 +41,7 @@ Users/participants will be encouraged to approach the installation, remove the t
 
 ## Technical notes
 Following installation and set up of this work, there should be little need for oversight or adjustments to this installation. Interaction with this installation is driven by users/participants. They will be encouraged to lift the telephone handset, place it to their ear, and then dial a telephone number. In response to this input, computers, controllers, and players inside the telephone will send a sound file, a Twisted Epiphany, to the handset where it can be heard by the user/participant. This process can be repeated. Electrical power is required for this installation. An extension cord, from a nearby wall or floor power outlet, can connect to the telephone, providing all necessary electrical power. The artists will supply the necessary power adaptor for the extension cord to connect with the installation power plug.
+
+![Close-up of Keypad PCB](https://cloud.githubusercontent.com/assets/2708066/7595556/a12ab6de-f89c-11e4-93f5-4fb3f81b39b0.jpg)
 
 ![ELO Conference Poster](https://cloud.githubusercontent.com/assets/2708066/7595311/2229873a-f89b-11e4-96ef-3b4eddce94e4.png)
