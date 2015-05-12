@@ -6,6 +6,8 @@
 
 TelephoNOUS is an interactive sound installation using a reproduction Crosley 1950's pay telephone, an Arduino micro-computer, a Lilly Pad player, and several sound files. Users/participants will dial a telephone number and hear, as a result, a short audio narrative in the telephone handset. Dialing different numbers will result in hearing different epiphanies.
 
+![img_6710](https://cloud.githubusercontent.com/assets/2708066/7595556/a12ab6de-f89c-11e4-93f5-4fb3f81b39b0.jpg)
+
 The term "TelephoNOUS" bears some explanation. The abbreviated "telephone" refers to the telephone platform that forms the basis for this installation. The term NOUS plays on the French word for we, us, to us, and each other and thus indicative of collaboration and sharing as its central attributes. The French 'nous' rhymes with the English “new” as in a fresh concept, hopefully more in tune with the context it signifies. 'Noos' or 'Nous' is also the ancient Greek word for mind. It implies perception, sense, and purpose. It represents one’s heart, the essence of oneself. Inherent in the word is the notion of humanness. The connection then to narrative is direct, a sharing of thoughts, ideas, reactions to the surrounding context of the world.
 
 "Twisted Epiphanies" is a collection of short spoken word pieces from 15 seconds to 2 minutes in length. Each features original sound design and audio enhancement and where appropriate, original music to underscore the message of the individual piece.
