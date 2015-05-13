@@ -1,6 +1,6 @@
 # TelephoNOUS
 
-## A collaborative digital media arts project by Travis Feldman, John Barber, Marc Rose.  November 2014-May 2015, Portland, OR.
+## A collaborative digital media arts project by Travis Feldman, Cody Moncur, Alan McGinnis, John Barber and Marc Rose.  November 2014-May 2015, Portland, OR.
 
 "TelephoNOUS: Twisted Epiphanies" is a new work, created in anticipation of the ELO 2015 Conference Arts Festival in Bergen, Norway. 
 
