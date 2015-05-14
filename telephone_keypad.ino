@@ -6,6 +6,18 @@
 //phone numbers entered via the touch-tone keypad; 
 //Two Arduino libraries are needed: Keypad and Tone.
 
+/*Here's how the hardware connects:
+
+Arduino Pins______________|  8  |  7  |  6  |
+           |color of wires|
+           |to keypad     |GREY |BLACK|WHITE| 
+    5      | ORANGE       | '1' | '2' | '3' |
+    4      | YELLOW       | '4' | '5' | '6' | 
+    3      | RED          | '7' | '8' | '9' |
+    2      | BROWN        | '*' | '0' | '#' |
+
+*/
+
 #include <Keypad.h>
 #include <Tone.h>
 
